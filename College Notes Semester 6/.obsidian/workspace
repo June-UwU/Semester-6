@@ -7,12 +7,8 @@
         "id": "317650ba93bfd5c5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Graphics/Module 1/DDA Algorithm.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Graphics/Module 1/DDA Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +84,15 @@
   },
   "active": "317650ba93bfd5c5",
   "lastOpenFiles": [
-    "Computer Graphics/Module 1/DDA Algorithm.md",
-    "Computer Graphics/Module 1/Bresenham's Line Drawing Algorithm.md",
-    "Computer Graphics/Module 1/Basic Math.md",
+    "Computer Graphics/Module 1/Midpoint Circle Algorithms.md",
+    "Computer Graphics/Module 1/Circle Drawing Algorithm.md",
     "Computer Graphics/Module 1/Line Drawing Algorithms.md",
+    "Computer Graphics/Module 1/DDA Algorithm.md",
+    "Computer Graphics/Module 1/Basic Math.md",
+    "Computer Graphics/Module 1/Bresenham's Line Drawing Algorithm.md",
     "Computer Graphics/Module 1/1 . Basics Of Computer Graphics And Algorithms.md",
     "Computer Graphics/Module 1/Raster Scan Display.md",
     "Computer Graphics/Module 1/Random Scan Display.md",
-    "Images/Computer Graphics/Random Scan Processors.jpg",
-    "Images/Computer Graphics/Retraces and Raster Scan Display.png",
-    "Raster.md"
+    "Images/Computer Graphics/Random Scan Processors.jpg"
   ]
 }

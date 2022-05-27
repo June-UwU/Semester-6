@@ -24,4 +24,4 @@ P (5, 5) used to represent a pixel in the 5th row and the 5th column. Each pixel
 [](Basic%20Math.md)
 
 - [DDA Algorithm](DDA%20Algorithm)
-- [Bresenham's Algorithm]()
+- [Bresenham's Algorithm](Bresenham's%20Line%20Drawing%20Algorithm)
