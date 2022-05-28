@@ -3,7 +3,7 @@
 The digital drflerential analyzer (DDA) is a scan-conversion line algorithm based on calculating either $\Delta$ y or $\Delta$ x.We sample the line at unit intervals in one coordinate and determine corresponding integer values nearest the along line path for the other coordinate.
 
 
-![[ddafig.png]]
+![](../../Images/Computer%20Graphics/ddafig.png)
 
 
 Consider first a line with positive slope, as shown in Fig. 3-4. If the slope is less than or equal to 1, we sample at unit x intervals ($\Delta x = 1$) and compute each successive y value as
