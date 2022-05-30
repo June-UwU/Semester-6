@@ -10,5 +10,5 @@ InÂ [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), theÂ
 
 
 1. [Euclidean algorithm](Euclidean%20algorithm.md)
-2. [Extended Euclid's Algorithm](Extended%20Euclid's%20Algorithm)
+2. [Extended Euclid's Algorithm](Extended%20Euclid's%20Algorithm.md)
 3. 
