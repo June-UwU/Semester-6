@@ -24,7 +24,7 @@ The character is grouped into the following lexemes and mapped into the followin
 > 	
 > 	5. $rate$ is a lexeme that is mapped on to the token $<id,3>$,where $3$ points to the entry in symbol table entry for $rate$.
 > 	
-> 	6. $*$ is a lexeme that is mapped into the token $<*>$.
+> 	6. * is a lexeme that is mapped into the token $<*>$.
 > 	
 > 	7. $60$ is a lexeme that is mapped into the token $<60>$.
 >      
@@ -44,4 +44,11 @@ Important Terms
 Lexemes : A group of characters that are meaningful in a sequence.
 
 Token : An Instance of the lexeme.
+
 ```
+
+### Problems With Tokens And Recognizing Token
+[Input Buffering And The Problem That It Faces](Input%20Buffering)
+
+[](Role%20Of%20Lexical%20Analyzer.md)
+[](Tokens%20,Patterns%20And%20Lexemes)
